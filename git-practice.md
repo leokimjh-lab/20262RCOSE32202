@@ -7,3 +7,4 @@
 6. git commit records staged changes.
 7. git log shows commit history.
 8. git push uploads local commits to a remote repository.
+9. Project source code must not be uploaded for this assignment.
