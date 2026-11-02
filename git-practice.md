@@ -6,3 +6,4 @@
 5. git add stages changes for a commit.
 6. git commit records staged changes.
 7. git log shows commit history.
+8. git push uploads local commits to a remote repository.
