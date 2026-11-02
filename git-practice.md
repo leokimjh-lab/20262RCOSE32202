@@ -4,3 +4,4 @@
 3. git clone copies a repository to my computer.
 4. git status shows the working tree status.
 5. git add stages changes for a commit.
+6. git commit records staged changes.
